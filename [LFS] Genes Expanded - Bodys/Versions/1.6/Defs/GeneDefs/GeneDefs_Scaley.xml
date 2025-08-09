@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Defs>
+
+	<GeneDef>
+		<defName>GEB_Scale_Skin_Type</defName>
+		<label>Scaley Skin</label>
+		<labelShortAdj>Scaley Skin</labelShortAdj>
+		<description>Carriers of this gene grow scales all over their body, which protect them from sharp damage of any kind.</description>
+		<biostatCpx>1</biostatCpx>
+		<biostatMet>-1</biostatMet>
+		<displayCategory>Miscellaneous</displayCategory>
+		<displayOrderInCategory>400</displayOrderInCategory>
+		<iconPath>UI/Icon/Genes/Scale_Icon</iconPath>
+		<iconColor>(1, 1, 1)</iconColor>
+		<exclusionTags>
+			<li>Skin</li>
+			<li>Fur</li>
+		</exclusionTags>
+		<fur>GEB_Scale_Skin_Type</fur>
+		<skinIsHairColor>false</skinIsHairColor>
+		<tattoosVisible>true</tattoosVisible>
+		<renderNodeProperties>
+			<li>
+				<nodeClass>PawnRenderNode_Fur</nodeClass>
+				<workerClass>PawnRenderNodeWorker_Fur</workerClass>
+				<baseLayer>5</baseLayer>
+				<rotDrawMode>Fresh, Rotting</rotDrawMode>
+				<colorType>Skin</colorType>
+				<parentTagDef>Body</parentTagDef>
+			</li>
+		</renderNodeProperties>
+		<statOffsets>
+			<ArmorRating_Sharp>0.2</ArmorRating_Sharp>
+		</statOffsets>
+		<missingGeneRomanceChanceFactor>0.2</missingGeneRomanceChanceFactor>
+		
+		<modExtensions>
+			<li Class="VEF.Genes.GeneExtension">
+				<useSkinColorForFur>True</useSkinColorForFur>
+			</li>
+		</modExtensions>
+	</GeneDef>
+
+	<FurDef>
+		<defName>GEB_Scale_Skin_Type</defName>
+		<noGraphic>true</noGraphic>
+		<bodyTypeGraphicPaths>
+			<Male>Pawn/Scaley/Scale_Male</Male>
+			<Female>Pawn/Scaley/Scale_Female</Female>
+			<Hulk>Pawn/Scaley/Scale_Hulk</Hulk>
+			<Fat>Pawn/Scaley/Scale_Fat</Fat>
+			<Thin>Pawn/Scaley/Scale_Thin</Thin>
+			<Child>Pawn/Scaley/Scale_Child</Child>
+			<Baby>Things/Pawn/Humanlike/Bodies/Naked_Child</Baby> <!-- Always covered by swaddled graphic -->
+		</bodyTypeGraphicPaths>
+	</FurDef>
+
+</Defs>
