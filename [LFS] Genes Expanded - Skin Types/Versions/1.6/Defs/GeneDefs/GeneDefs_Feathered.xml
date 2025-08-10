@@ -29,7 +29,10 @@
 			</li>
 		</renderNodeProperties>
 		<statOffsets>
-			<ArmorRating_Sharp>0.2</ArmorRating_Sharp>
+			<ArmorRating_Sharp>-0.1</ArmorRating_Sharp>
+			<ArmorRating_Blunt>-0.1</ArmorRating_Blunt>
+			<ArmorRating_Heat>0.1</ArmorRating_Heat>
+			<MoveSpeed>0.2</MoveSpeed>
 		</statOffsets>
 		<missingGeneRomanceChanceFactor>0.2</missingGeneRomanceChanceFactor>
 		

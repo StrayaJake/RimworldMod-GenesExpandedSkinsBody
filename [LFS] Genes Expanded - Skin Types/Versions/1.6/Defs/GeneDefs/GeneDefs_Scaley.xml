@@ -29,6 +29,8 @@
 			</li>
 		</renderNodeProperties>
 		<statOffsets>
+			<ComfyTemperatureMax>20</ComfyTemperatureMax>
+			<ComfyTemperatureMin>-5</ComfyTemperatureMin>
 			<ArmorRating_Sharp>0.2</ArmorRating_Sharp>
 		</statOffsets>
 		<missingGeneRomanceChanceFactor>0.2</missingGeneRomanceChanceFactor>
