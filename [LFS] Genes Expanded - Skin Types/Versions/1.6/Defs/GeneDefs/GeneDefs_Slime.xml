@@ -7,7 +7,7 @@
 		<description>Carriers of this gene have a slimy, gelatinous skin that provides unique benefits and drawbacks.</description>
 		<biostatCpx>1</biostatCpx>
 		<biostatMet>-1</biostatMet>
-		<displayCategory>Miscellaneous</displayCategory>
+		<displayCategory>GEST_Skin_type</displayCategory>
 		<displayOrderInCategory>400</displayOrderInCategory>
 		<iconPath>UI/Icon/Genes/Slime_Icon</iconPath>
 		<iconColor>(1, 1, 1)</iconColor>

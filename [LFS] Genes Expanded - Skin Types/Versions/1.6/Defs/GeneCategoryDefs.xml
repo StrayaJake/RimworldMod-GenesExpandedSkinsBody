@@ -2,7 +2,7 @@
 <Defs>
   <GeneCategoryDef>
     <defName>GEST_Skin_type</defName>
-    <label>Body - Skins</label>
+    <label>Skins</label>
     <displayPriorityInXenotype>-19995</displayPriorityInXenotype>
   </GeneCategoryDef>
 </Defs>

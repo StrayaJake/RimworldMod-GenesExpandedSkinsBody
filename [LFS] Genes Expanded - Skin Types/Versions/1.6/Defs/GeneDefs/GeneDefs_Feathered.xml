@@ -7,7 +7,7 @@
 		<description>Carriers of this gene grow feathers all over their body, providing insulation and a unique appearance.</description>
 		<biostatCpx>1</biostatCpx>
 		<biostatMet>-1</biostatMet>
-		<displayCategory>Miscellaneous</displayCategory>
+		<displayCategory>GEST_Skin_type</displayCategory>
 		<displayOrderInCategory>400</displayOrderInCategory>
 		<iconPath>UI/Icon/Genes/Feathered_Icon</iconPath>
 		<iconColor>(1, 1, 1)</iconColor>

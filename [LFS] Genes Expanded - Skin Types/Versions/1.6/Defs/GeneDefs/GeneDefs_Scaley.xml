@@ -7,7 +7,7 @@
 		<description>Carriers of this gene grow scales all over their body, which protect them from sharp damage of any kind.</description>
 		<biostatCpx>1</biostatCpx>
 		<biostatMet>-1</biostatMet>
-		<displayCategory>Miscellaneous</displayCategory>
+		<displayCategory>GEST_Skin_type</displayCategory>
 		<displayOrderInCategory>400</displayOrderInCategory>
 		<iconPath>UI/Icon/Genes/Scale_Icon</iconPath>
 		<iconColor>(1, 1, 1)</iconColor>
