@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Defs>
 	<GeneDef>
-		<defName>GEB_Rockey_Skin_Type</defName>
+		<defName>GEST_Rockey_Skin_Type</defName>
 		<label>Rockey Skin</label>
 		<labelShortAdj>Rockey Skin</labelShortAdj>
 		<description>Carriers of this gene grow rocky plates all over their body, which protect them from sharp damage of any kind.</description>
@@ -15,7 +15,7 @@
 			<li>Skin</li>
 			<li>Fur</li>
 		</exclusionTags>
-		<fur>GEB_Rockey_Skin_Type</fur>
+		<fur>GEST_Rockey_Skin_Type</fur>
 		<skinIsHairColor>false</skinIsHairColor>
 		<tattoosVisible>true</tattoosVisible>
 		<renderNodeProperties>
@@ -44,7 +44,7 @@
 	</GeneDef>
 
 	<FurDef>
-		<defName>GEB_Rockey_Skin_Type</defName>
+		<defName>GEST_Rockey_Skin_Type</defName>
 		<noGraphic>true</noGraphic>
 		<bodyTypeGraphicPaths>
 			<Male>Pawn/Rockey/Rockey_Male</Male>

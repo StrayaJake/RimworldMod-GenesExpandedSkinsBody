@@ -2,26 +2,29 @@
 <ModMetaData>
     <name>[LFS] Genes Expanded - Skin Types</name>
     <author>Lazy Friday Studio</author>
-    <description>Adds in a varity of new skin types</description>
+    <description>This mod expands the range of skin materials available in RimWorld, introducing unique and imaginative textures beyond the standard human skin. Your colonists and xenotypes can now have</description>
     <supportedVersions>
         <li>1.6</li>
     </supportedVersions>
     <packageId>LazyFridayStudio.SkinTypes</packageId>
     <modDependencies>
-        <li>
-            <packageId>brrainz.harmony</packageId>
-            <displayName>Harmony</displayName>
-            <steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
-            <downloadUrl>https://github.com/pardeike/HarmonyRimWorld/releases/latest</downloadUrl>
-        </li>
-        <li>
-            <packageId>Ludeon.RimWorld</packageId>
-            <displayName>Core</displayName>
-        </li>
-        <li>
-            <packageId>Ludeon.RimWorld.Biotech</packageId>
-            <displayName>Biotech</displayName>
-        </li>
+		<li>
+			<packageId>brrainz.harmony</packageId>
+			<displayName>Harmony</displayName>
+			<steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
+			<downloadUrl>https://github.com/pardeike/HarmonyRimWorld/releases/latest</downloadUrl>
+		</li>
+		<li>
+			<packageId>Ludeon.RimWorld.Biotech</packageId>
+			<displayName>Rimworld - Biotech</displayName>
+			<steamWorkshopUrl>https://store.steampowered.com/app/1826140/RimWorld__Biotech/</steamWorkshopUrl>
+		</li>
+		<li>
+			<packageId>OskarPotocki.VanillaFactionsExpanded.Core</packageId>
+			<displayName>Vanilla Expanded Framework</displayName>
+			<steamWorkshopUrl>https://steamcommunity.com/workshop/filedetails/?id=2023507013</steamWorkshopUrl>
+			<downloadUrl>https://github.com/Vanilla-Expanded/VanillaExpandedFramework</downloadUrl>
+		</li>
     </modDependencies>
     <loadAfter>
         <li>brrainz.harmony</li>
@@ -30,6 +33,6 @@
         <li>Ludeon.RimWorld.Royalty</li>
         <li>Ludeon.RimWorld.Biotech</li>
         <li>Ludeon.RimWorld.Anomaly</li>
-        <li>lazyfridaystudio.xenosexpanded</li>
+		<li>OskarPotocki.VanillaFactionsExpanded.Core</li>
     </loadAfter>
 </ModMetaData>
