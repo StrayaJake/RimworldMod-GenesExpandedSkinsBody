@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Defs>
 	<GeneDef>
-		<defName>GEST_Rockey_Skin_Type</defName>
-		<label>Rockey Skin</label>
-		<labelShortAdj>Rockey Skin</labelShortAdj>
-		<description>Carriers of this gene grow tough, rock-like plates across their body, providing natural protection against sharp damage.</description>
+		<defName>GEST_Sandstone_Skin_Type</defName>
+		<label>Sandstone Skin</label>
+		<labelShortAdj>Sandstone Skin</labelShortAdj>
+		<description>Carriers of this gene grow sandstone plates all over their body, which protect them from sharp damage of any kind.</description>
 		<biostatCpx>1</biostatCpx>
 		<biostatMet>-1</biostatMet>
 		<displayCategory>GEST_Skin_type</displayCategory>
 		<displayOrderInCategory>400</displayOrderInCategory>
-		<iconPath>UI/Icon/Genes/Rockey_Icon</iconPath>
+		<iconPath>UI/Icon/Genes/Sandstone_Icon</iconPath>
 		<iconColor>(1, 1, 1)</iconColor>
 		<exclusionTags>
 			<li>Skin</li>
 			<li>Fur</li>
 		</exclusionTags>
-		<fur>GEST_Rockey_Skin_Type</fur>
+		<fur>GEST_Sandstone_Skin_Type</fur>
 		<skinIsHairColor>false</skinIsHairColor>
 		<tattoosVisible>true</tattoosVisible>
 		<renderNodeProperties>
@@ -29,10 +29,10 @@
 			</li>
 		</renderNodeProperties>
 		<statOffsets>
-			<ArmorRating_Sharp>0.4</ArmorRating_Sharp>
-			<ArmorRating_Blunt>0.4</ArmorRating_Blunt>
-			<ArmorRating_Heat>0.8</ArmorRating_Heat>
-			<MoveSpeed>-0.4</MoveSpeed>
+			<ArmorRating_Sharp>0.3</ArmorRating_Sharp>
+			<ArmorRating_Blunt>0.3</ArmorRating_Blunt>
+			<ArmorRating_Heat>0.5</ArmorRating_Heat>
+			<MoveSpeed>-0.2</MoveSpeed>
 		</statOffsets>
 		<missingGeneRomanceChanceFactor>0.2</missingGeneRomanceChanceFactor>
 		
@@ -44,15 +44,15 @@
 	</GeneDef>
 
 	<FurDef>
-		<defName>GEST_Rockey_Skin_Type</defName>
+		<defName>GEST_Sandstone_Skin_Type</defName>
 		<noGraphic>true</noGraphic>
 		<bodyTypeGraphicPaths>
-			<Male>Pawn/Rockey/Rockey_Male</Male>
-			<Female>Pawn/Rockey/Rockey_Female</Female>
-			<Hulk>Pawn/Rockey/Rockey_Hulk</Hulk>
-			<Fat>Pawn/Rockey/Rockey_Fat</Fat>
-			<Thin>Pawn/Rockey/Rockey_Thin</Thin>
-			<Child>Pawn/Rockey/Rockey_Child</Child>
+			<Male>Pawn/Sandstone/Sandstone_Male</Male>
+			<Female>Pawn/Sandstone/Sandstone_Female</Female>
+			<Hulk>Pawn/Sandstone/Sandstone_Hulk</Hulk>
+			<Fat>Pawn/Sandstone/Sandstone_Fat</Fat>
+			<Thin>Pawn/Sandstone/Sandstone_Thin</Thin>
+			<Child>Pawn/Sandstone/Sandstone_Child</Child>
 			<Baby>Things/Pawn/Humanlike/Bodies/Naked_Child</Baby> <!-- Always covered by swaddled graphic -->
 		</bodyTypeGraphicPaths>
 	</FurDef>
