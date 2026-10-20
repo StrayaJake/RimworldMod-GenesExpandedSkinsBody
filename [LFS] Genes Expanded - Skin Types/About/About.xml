@@ -5,6 +5,7 @@
     <description>This mod expands the range of skin materials available in RimWorld, introducing unique and imaginative textures beyond the standard human skin. Your colonists and xenotypes can now have</description>
     <supportedVersions>
         <li>1.6</li>
+        <li>1.7</li>
     </supportedVersions>
     <packageId>LazyFridayStudio.SkinTypes</packageId>
     <modDependencies>
