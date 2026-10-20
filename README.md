@@ -1,17 +1,22 @@
-![Banner](https://imgur.com/rLzEMiq.png)
-This mod expands the range of skin materials available in RimWorld, introducing unique and imaginative textures beyond the standard human skin. Your colonists and xenotypes can now have
+![Image](https://imgur.com/rLzEMiq.png)  
+This mod expands the range of skin materials available in RimWorld, introducing unique and imaginative textures beyond the standard human skin.
 
-![Preview 1](https://imgur.com/Ag2bKfL.png)  
-![Preview 1](https://imgur.com/1CevHmJ.png)  
+Also includes as HD Patch for the base line xenos
 
-![Patching](https://imgur.com/dYkdrSs.png)
-[![Join Discord](https://imgur.com/EiptVUB.png)](https://discord.gg/wzfYxfymjx)  
-![Banner](https://imgur.com/L7QezrM.png)  
-[![Extra Patch](https://imgur.com/qjEcHtb.png)](https://steamcommunity.com/workshop/filedetails/?id=3221829785)
+![Image](https://imgur.com/Ag2bKfL.png)  
+![Image](https://imgur.com/Z2Aenw4.png) 
 
-![Preview 4](https://imgur.com/X9hU1W2.png)  
-![Preview 5](https://imgur.com/2MXFikA.png)  
-[![Support Me on Ko-fi](https://imgur.com/wqldLyd.png)](https://ko-fi.com/lazyfridaystudio)
+HD Baseliners  
+![Image](https://imgur.com/oTJGXlz.png)  
+
+![Image](https://imgur.com/dYkdrSs.png)  
+[![Image](https://imgur.com/EiptVUB.png)](https://discord.gg/wzfYxfymjx)  
+![Image](https://imgur.com/L7QezrM.png)  
+[![Image](https://imgur.com/qjEcHtb.png)](https://steamcommunity.com/workshop/filedetails/?id=3221829785)
+
+![Image](https://imgur.com/X9hU1W2.png)  
+![Image](https://imgur.com/2MXFikA.png)  
+[![Image](https://imgur.com/wqldLyd.png)](https://ko-fi.com/lazyfridaystudio)
 
 **XML and Art by:** [Lazy Friday Studio](https://www.lazyfridaystudio.com)  
 *RimWorld* is owned by **Tynan Sylvester**.  
